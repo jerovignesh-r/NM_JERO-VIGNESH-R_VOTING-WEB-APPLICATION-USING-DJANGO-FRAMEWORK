@@ -1,3 +1,11 @@
+# NM_JERO-VIGNESH-R_VOTING-WEB-APPLICATION-USING-DJANGO-FRAMEWORK
+ PROJECT CREARED BY :JERO VIGNESH R
+LOGIN DETAILS:
+USER NAME:
+PASSWORD:
+
+
+
 # E - Voting Created Using Django 
 This E - Voting System Was Developed With Django(Python Framework).
 Feel free to make changes based on your requirements.
